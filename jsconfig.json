@@ -1,0 +1,28 @@
+{
+    "compilerOptions": {
+        "baseUrl": ".",
+        "paths": {
+            "db": [
+                "./app/db"
+            ],
+            "routes": [
+                "./app/routes"
+            ],
+            "models": [
+                "./app/models"
+            ],
+            "utils": [
+                "./app/utils"
+            ],
+            "services": [
+                "./app/services"
+            ],
+            "documents": [
+                "./app/documents"
+            ],
+            "constraints": [
+                "./app/constraints"
+            ]
+        }
+    }
+}
